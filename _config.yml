@@ -1,8 +1,7 @@
 # Site Settings
 name: Dimas
-title: Dimas
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+title: Jekflix | A blog theme for Jekyll
+description: Test.
 tags:
   - blog
   - template
