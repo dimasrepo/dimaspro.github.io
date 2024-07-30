@@ -23,8 +23,8 @@ A *Jekflix* post file looks like:
 ---
 date: 2019-05-16 23:48:05
 layout: post
-title: Welcome to the desert of the real
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+title: Explore Project
+subtitle: Every project is a journey, and the destination is only as rewarding as the effort you put into the journey itself
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
@@ -34,7 +34,7 @@ category: blog
 tags:
   - welcome
   - blog
-author: thiagorossener
+author: Dimas
 paginate: true
 ---
 
@@ -87,7 +87,7 @@ Example:
 # _posts/2019-08-22-example.md
 ---
 ...
-title: Welcome to the desert of the real
+title: Explore Project
 ...
 ---
 ```
@@ -106,7 +106,7 @@ Example:
 # _posts/2019-08-22-example.md
 ---
 ...
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+subtitle: Every project is a journey, and the destination is only as rewarding as the effort you put into the journey itself.
 ...
 ---
 ```

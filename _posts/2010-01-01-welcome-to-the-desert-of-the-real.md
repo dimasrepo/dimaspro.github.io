@@ -1,13 +1,13 @@
 ---
-date: 2019-05-16 23:48:05
+date: 2024-07-28 16:48:05 -0700
 layout: post
-title: Welcome to the desert of the real
-subtitle: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
+title: Explore Project
+subtitle: 'A range of data science projects is available for exploration.'
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
 image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg
+  'C:\Users\sendd\dimasrepo.github.io\assets\img\Web\city-lights-tokyo-night-city-wallpaper.jpg'
 optimized_image: >-
   https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme6_qeeojf.jpg
 category: blog
@@ -15,7 +15,7 @@ tags:
   - welcome
   - blog
 author: mranderson
-paginate: true
+paginate: false
 ---
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
 
