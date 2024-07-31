@@ -4,8 +4,8 @@ layout: post
 title: "Ecommerce Superset"
 subtitle: "This repository contains a collection of visualizations created with Apache Superset."
 description: ""
-image: ![Brazilan Ecommerce](https://github.com/user-attachments/assets/bd349749-39ad-47d8-8536-9b5b4cf91e53)
-optimized_image: ![Brazilian Ecommerce](https://github.com/user-attachments/assets/37733743-755d-48c1-9031-c194ecca2b02)
+image: https://github.com/user-attachments/assets/bd349749-39ad-47d8-8536-9b5b4cf91e53
+optimized_image: https://github.com/user-attachments/assets/37733743-755d-48c1-9031-c194ecca2b02
 category: Dashboard
 tags:
   - PostgreSQL
@@ -16,7 +16,7 @@ paginate: true
 
 #Ecommerce Superset
 
-![Brazilan Ecommerce](https://github.com/user-attachments/assets/c753e32d-673c-4477-ad78-bd1d558c36c7)
+https://github.com/user-attachments/assets/c753e32d-673c-4477-ad78-bd1d558c36c7
 
 The dashboards provide insights into various aspects of the Olist dataset, including product performance, sales trends, customer profiles, and more.
 
