@@ -4,7 +4,7 @@ layout: post
 title: "Exchange Rate Webscraping"
 subtitle:
 description:
-image:
+image: ![Webscarp](https://github.com/user-attachments/assets/ace185f1-2878-48e0-86d4-d7e5b0646899)
 optimized_image:
 category:
 tags:
