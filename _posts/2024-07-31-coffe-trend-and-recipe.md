@@ -4,8 +4,8 @@ layout: post
 title: "Coffe Trend and Recipe"
 subtitle:
 description: In October 2023, James Hoffmann conducted a direct taste test with approximately 4,000 participants in the US. A month later, he released survey data from the taste test where each participant received four unlabeled coffee samples. This survey provides interesting statistical insights. Let's visualize some of the key findings.
-image: ![Coffe](https://github.com/user-attachments/assets/2ee02991-cea1-4a96-8da7-5b4116146c8e)
-optimized_image: ![Coffe](https://github.com/user-attachments/assets/c269be11-a5e8-4560-84ad-bd7e716a65cc)
+image: https://github.com/user-attachments/assets/2ee02991-cea1-4a96-8da7-5b4116146c8e
+optimized_image: 
 category:
 tags:
 author:
