@@ -3,8 +3,8 @@ layout: author
 photo: /assets/img/uploads/profile.png
 name: Dimas
 display_name: Dimas
-position: nothing
-bio: nothing
+position: 
+bio: consistent and sustainable
 github_username: https://github.com/dimasrepo
 #facebook_username: facebook_username
 #twitter_username: twitter_username
