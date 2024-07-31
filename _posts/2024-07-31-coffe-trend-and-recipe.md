@@ -1,10 +1,11 @@
----
+![Coffe](https://github.com/user-attachments/assets/292a4303-f693-4290-95db-66f6a74262fe)---
 date: 2024-07-31 11:20:33
 layout: post
 title: "Coffe Trend and Recipe"
 subtitle:
 description: In October 2023, James Hoffmann conducted a direct taste test with approximately 4,000 participants in the US. A month later, he released survey data from the taste test where each participant received four unlabeled coffee samples. This survey provides interesting statistical insights. Let's visualize some of the key findings.
-image: https://github.com/user-attachments/assets/2ee02991-cea1-4a96-8da7-5b4116146c8e
+image: ![Coffe](https://github.com/user-attachments/assets/46c2eb8d-27b8-44c9-9801-cad641622126)
+
 optimized_image: 
 category:
 tags:
