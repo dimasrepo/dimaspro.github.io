@@ -4,8 +4,7 @@ layout: post
 title: "Explore Project"
 subtitle: 'A range of data science projects is available for exploration.'
 description: >-
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua.
+  A range of data science projects is available for exploration.
 image: >-
   'https://github.com/dimasrepo/Picture/blob/main/Web/city-lights-tokyo-night-city-wallpaper.jpg'
 optimized_image: >-
