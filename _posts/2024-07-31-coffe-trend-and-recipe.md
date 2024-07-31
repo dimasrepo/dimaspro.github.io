@@ -10,7 +10,7 @@ optimized_image:
 category:
 tags:
 author:
-paginate: false
+paginate: true
 ---
 
 # Coffee Taste Test Analysis
