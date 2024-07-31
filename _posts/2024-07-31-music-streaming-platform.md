@@ -13,9 +13,6 @@ paginate: true
 ---
 # Music Streaming Data Analysis
 
-![Music Streaming](https://github.com/user-attachments/assets/8c62a5e4-b92e-4a4c-82d3-c7b8c3f562fa)
-
-
 ## Overview
 
 This dataset contains music streaming data for various artists across multiple platforms, including Spotify, YouTube Music, Joox, and Apple Music. The dataset provides insights into the streaming performance of different artists, which can be used for analysis and visualization to understand trends and patterns in music consumption.
