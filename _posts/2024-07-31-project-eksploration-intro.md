@@ -6,9 +6,9 @@ subtitle: 'A range of data science projects is available for exploration.'
 description: >-
   A range of data science projects is available for exploration.
 image: >-
-  'https://github.com/dimasrepo/Picture/blob/main/Web/city-lights-tokyo-night-city-wallpaper.jpg'
+  https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme6_qeeojf.jpg
 optimized_image: >-
-  'https://github.com/dimasrepo/Picture/blob/main/Web/city-lights-tokyo-night-city-wallpaper.jpg'
+  https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme6_qeeojf.jpg
 category: blog
 tags:
   - welcome
