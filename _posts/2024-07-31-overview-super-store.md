@@ -2,14 +2,14 @@
 date: 2024-07-31 11:16:52
 layout: post
 title: "Overview Super Store"
-subtitle:
+subtitle: The dataset contains information about products, sales, and profits that you can use to identify key areas of improvement within this fictitious company
 description: The dataset contains information about products, sales, and profits that you can use to identify key areas of improvement within this fictitious company. It consists of 9,994 rows and 21 columns, capturing various details about orders and their corresponding attributes.
 image: https://github.com/user-attachments/assets/0297608f-da4d-4efd-8b05-502e64708b64
 optimized_image: 
-category:
-tags:
-author:
-paginate: false
+category: Dashboard
+tags: Tableau
+author: Dimas
+paginate: true
 ---
 
 # Superstore Sales Data
