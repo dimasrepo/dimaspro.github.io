@@ -6,7 +6,6 @@ subtitle:
 description:
 image:![Webscarp](https://github.com/user-attachments/assets/786fb3c2-4c55-495c-9422-a206d9b7fc09)
 optimized_image:![Webscarp](https://github.com/user-attachments/assets/bee258c6-b839-4eaa-8c7a-037838c1b6ea)
-
 category:
 tags:
 author:
