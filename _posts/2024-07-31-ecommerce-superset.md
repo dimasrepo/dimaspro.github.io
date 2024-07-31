@@ -14,6 +14,9 @@ author: Dimas
 paginate: true
 ---
 
+#Ecommerce Superset
+
+![Brazilan Ecommerce](https://github.com/user-attachments/assets/c753e32d-673c-4477-ad78-bd1d558c36c7)
 
 The dashboards provide insights into various aspects of the Olist dataset, including product performance, sales trends, customer profiles, and more.
 
