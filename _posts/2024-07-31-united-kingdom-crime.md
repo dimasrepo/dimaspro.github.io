@@ -14,9 +14,6 @@ paginate: true
 
 # Analyzing Crime Trends: Merging and Exploring Bedfordshire and Essex Police Data
 
-![Crime](https://github.com/user-attachments/assets/867b1010-293f-4402-a907-8535459bc862)
-
-
 ## Overview
 The dataset consists of police data from the Bedfordshire and Essex police forces, covering a period from 2019 to June 30th, 2022. The data provides a detailed monthly overview of reported crimes and incidents within these regions. This README file provides a summary of the dataset, including column descriptions and key points to consider during analysis.
 
