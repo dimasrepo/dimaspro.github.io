@@ -4,7 +4,7 @@ layout: post
 title: "Energy Analysis"
 subtitle:
 description:
-image:
+image: https://github.com/user-attachments/assets/cb67bf4b-c9e1-4fc5-8d49-18d992b3290d
 optimized_image:
 category:
 tags:
