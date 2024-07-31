@@ -14,8 +14,6 @@ author: Dimas
 paginate: true
 ---
 
-# Ecommerce Superset
-
 The dashboards provide insights into various aspects of the Olist dataset, including product performance, sales trends, customer profiles, and more.
 
 ## Overview
