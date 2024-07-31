@@ -4,8 +4,8 @@ layout: post
 title: "Overview Super Store"
 subtitle:
 description: The dataset contains information about products, sales, and profits that you can use to identify key areas of improvement within this fictitious company. It consists of 9,994 rows and 21 columns, capturing various details about orders and their corresponding attributes.
-image: 
-optimized_image: https://github.com/user-attachments/assets/0297608f-da4d-4efd-8b05-502e64708b64
+image: https://github.com/user-attachments/assets/0297608f-da4d-4efd-8b05-502e64708b64
+optimized_image: 
 category:
 tags:
 author:
