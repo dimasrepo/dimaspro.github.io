@@ -12,9 +12,6 @@ author: Dimas
 paginate: true
 ---
 
-# Coffee Taste Test Analysis
-
-
 In October 2023, James Hoffmann conducted a direct taste test with approximately 4,000 participants in the US. A month later, he released survey data from the taste test where each participant received four unlabeled coffee samples. This survey provides interesting statistical insights. Let's visualize some of the key findings.
 
 ## Source
