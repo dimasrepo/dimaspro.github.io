@@ -2,9 +2,9 @@
 date: 2024-07-31 17:18:49
 layout: post
 title: "Exploratory Project"
-subtitle: A range of data science projects is available for exploration.
+subtitle: "A range of data science projects is available for exploration"
 description: A range of data science projects is available for exploration
-image: ![citylight](https://github.com/user-attachments/assets/0b5887ac-67cf-4636-bb9d-c27300a65df6)
+image: https://github.com/user-attachments/assets/0b5887ac-67cf-4636-bb9d-c27300a65df6
 
 optimized_image:
 category: Introduction
