@@ -3,9 +3,9 @@ date: 2024-07-31 11:17:43
 layout: post
 title: "Energy Analysis"
 subtitle:
-description:
+description: Access 2023 world energy and climate data and key decarbonisation indices through Enerdata's interactive data tool. This README file provides a summary of the dataset, including features and key points to consider during analysis.
 image: https://github.com/user-attachments/assets/cb67bf4b-c9e1-4fc5-8d49-18d992b3290d
-optimized_image:
+optimized_image: https://github.com/user-attachments/assets/cb67bf4b-c9e1-4fc5-8d49-18d992b3290d
 category:
 tags:
 author:
