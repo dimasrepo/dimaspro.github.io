@@ -12,8 +12,6 @@ author: Dimas
 paginate: true
 ---
 
-# Superstore Sales Data
-
 ## Overview
 The dataset contains information about products, sales, and profits that you can use to identify key areas of improvement within this fictitious company. It consists of 9,994 rows and 21 columns, capturing various details about orders and their corresponding attributes.
 
