@@ -5,7 +5,6 @@ title: "Coffe Trend and Recipe"
 subtitle: In October 2023, James Hoffmann had 4,000 US participants taste four unlabeled coffee samples. He later released survey data with key insights.
 description: In October 2023, James Hoffmann conducted a direct taste test with approximately 4,000 participants in the US. A month later, he released survey data from the taste test where each participant received four unlabeled coffee samples. This survey provides interesting statistical insights. Let's visualize some of the key findings.
 image: https://github.com/user-attachments/assets/46c2eb8d-27b8-44c9-9801-cad641622126
-
 optimized_image: 
 category: Rpubs 
 tags: Rpubs
