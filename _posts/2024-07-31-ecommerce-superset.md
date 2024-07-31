@@ -4,7 +4,7 @@ layout: post
 title: "Ecommerce Superset"
 subtitle: "This repository contains a collection of visualizations created with Apache Superset."
 description: ""
-image: ![Brazilian Ecommerce](https://github.com/user-attachments/assets/fe816fd1-f5aa-4891-9fe6-2ddc97e7aa3b)
+image: ![Brazilan Ecommerce](https://github.com/user-attachments/assets/bd349749-39ad-47d8-8536-9b5b4cf91e53)
 optimized_image: ![Brazilian Ecommerce](https://github.com/user-attachments/assets/37733743-755d-48c1-9031-c194ecca2b02)
 category: Dashboard
 tags:
