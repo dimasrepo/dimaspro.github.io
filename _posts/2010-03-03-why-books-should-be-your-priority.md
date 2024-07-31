@@ -1,140 +1,94 @@
 ---
 date: 2018-11-22 12:26:40
 layout: post
-title: Why books should be your priority?
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559822138/theme9_v273a9.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559822138/theme9_v273a9.jpg
-category: life
+title: Ecommerce Apache Superset
+subtitle: This repository contains a collection of visualizations created with Apache Superset.
+description: 
+image: ![Brazilan Ecommerce](https://github.com/user-attachments/assets/fe816fd1-f5aa-4891-9fe6-2ddc97e7aa3b)
+
+optimized_image: ![Brazilan Ecommerce](https://github.com/user-attachments/assets/37733743-755d-48c1-9031-c194ecca2b02)
+
+category: Dashboard
 tags:
-  - books
-  - read
-author: mranderson
+  - Postgree
+  - Apache
+author: Dimas
 paginate: true
 ---
 
-Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+The dashboards provide insights into various aspects of the Olist dataset, including product performance, sales trends, customer profiles, and more.
 
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
+## Overview
 
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+The visualizations in this repository explore different facets of the Olist dataset to offer valuable business insights. These dashboards include analysis on product performance by category, the influence of product weight on pricing, seller performance, payment methods, and more. Each visualization aims to identify trends and patterns that can inform business strategies and decision-making.
 
-<!--page-->
+## Directory Structure
 
-## Inline HTML elements
 
-HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
+## Column Descriptions
 
-- **To bold text**, use `<strong>`.
-- *To italicize text*, use `<em>`.
-- Abbreviations, like <abbr title="HyperText Markup Langage">HTML</abbr> should use `<abbr>`, with an optional `title` attribute for the full phrase.
-- Citations, like <cite>&mdash; Thomas A. Anderson</cite>, should use `<cite>`.
-- <del>Deleted</del> text should use `<del>` and <ins>inserted</ins> text should use `<ins>`.
-- Superscript <sup>text</sup> uses `<sup>` and subscript <sub>text</sub> uses `<sub>`.
+Each dataset used for the visualizations has specific columns that were leveraged for analysis:
 
-Most of these elements are styled by browsers with few modifications on our part.
+- **`olist_products_dataset`**: Product ID, Product Category, Product Weight, Product Dimensions
+- **`olist_order_items_dataset`**: Order ID, Product ID, Price, Freight Value
+- **`olist_orders_dataset`**: Order ID, Purchase Time, Delivery Time, Order Status
+- **`olist_sellers_dataset`**: Seller ID, Seller City
+- **`olist_customers_dataset`**: Customer ID, Customer City, Purchase Frequency
+- **`olist_order_payments_dataset`**: Order ID, Payment Method, Payment Value
 
-<!--page-->
+## How to Use This Data
 
-# Heading 1
+1. **Clone the Repository**: Use `git clone https://github.com/yourusername/your-repository.git` to get a local copy of the repository.
+2. **Install Dependencies**: Ensure you have Apache Superset installed to visualize the dashboards.
+3. **Open Dashboards**: Use Apache Superset to open and interact with the visualizations provided in the `dashboards/` directory.
 
-## Heading 2
+## Exploring the Data
 
-### Heading 3
+The dashboards offer various views and insights into the Olist dataset. Key visualizations include:
 
-#### Heading 4
+- **Presentation Order by Category**: Identifies best and worst performing products by category.
+- **Influence of Product Weight and Dimensions**: Assesses how product weight and dimensions affect price and freight value.
+- **Purchase Time vs. Order Status**: Analyzes the impact of purchase time on order status and delivery.
+- **Seller Performance**: Evaluates seller performance based on their location.
+- **Number of Photos vs. Sales**: Measures the effect of the number of product photos on sales levels.
+- **Payment Methods vs. Payment Value**: Compares payment methods to transaction values.
+- **Purchase Patterns by Time**: Examines purchase patterns based on time of day or month.
+- **Customer Profile by Location**: Identifies customer profiles based on location and purchase frequency.
+- **Sales Growth**: Analyzes months with significant sales growth.
 
-Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+## Analyzing Trends
 
-## Code
+The visualizations reveal several trends:
 
-Cum sociis natoque penatibus et magnis dis `code element` montes, nascetur ridiculus mus.
+- **Product Categories**: Household and beauty products are popular, influencing inventory and promotions.
+- **Price and Shipping Costs**: Larger and heavier products generally have higher prices and shipping costs.
+- **Order Fulfillment**: Faster order fulfillment correlates with higher success rates.
+- **Seller Performance**: Sao Paulo leads in sales, with growth potential in other cities.
+- **Number of Photos**: More product photos can lead to higher sales.
+- **Payment Methods**: Credit cards are the most popular and generate the largest transaction values.
+- **Purchase Patterns**: Significant increases in orders are observed during the holiday season.
+- **Customer Profiles**: Large cities show higher purchase frequencies, indicating key markets.
+- **Sales Growth**: Overall sales growth is positive, with notable spikes during specific periods.
 
-```js
-// Example can be run directly in your JavaScript console
+## Visualizations
 
-// Create a function that takes two arguments and returns the sum of those arguments
-var adder = new Function("a", "b", "return a + b");
+ 1. Presentation Order by Category
+ 2. The Influence of Product Weight and Dimensions on Price and Freight Value
+ 3. The Influence of Purchase Time on Order Status
+ 4. Seller Performance
+ 5. The Influence of the Number of Product Photos on Sales
+ 6. Comparison of Payment Methods to Payment Value
+ 7. Purchase Patterns Based on Time
+ 8. Customer Profile Based on Location and Purchase Frequency
+ 9. Sales Growth
 
-// Call the function
-adder(2, 6);
-// > 8
-```
+## Reporting
 
-<!--page-->
+For any questions or further information regarding these visualizations, please open an issue or contact via [LinkedIn](https://www.linkedin.com/in/your-profile) or [GitHub](https://github.com/yourusername).
 
-Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.
+## Dataset Source
 
-## Lists
-
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-
-* Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-* Donec id elit non mi porta gravida at eget metus.
-* Nulla vitae elit libero, a pharetra augue.
-
-Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.
-
-1. Vestibulum id ligula porta felis euismod semper.
-2. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-3. Maecenas sed diam eget risus varius blandit sit amet non magna.
-
-<!--page-->
-
-Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
-
-Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.
-
-## Images
-
-Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
-
-![placeholder](https://placehold.it/800x400 "Large example image")
-![placeholder](https://placehold.it/400x200 "Medium example image")
-![placeholder](https://placehold.it/200x200 "Small example image")
-
-## Tables
-
-Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Upvotes</th>
-      <th>Downvotes</th>
-    </tr>
-  </thead>
-  <tfoot>
-    <tr>
-      <td>Totals</td>
-      <td>21</td>
-      <td>23</td>
-    </tr>
-  </tfoot>
-  <tbody>
-    <tr>
-      <td>Alice</td>
-      <td>10</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>Bob</td>
-      <td>4</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>Charlie</td>
-      <td>7</td>
-      <td>9</td>
-    </tr>
-  </tbody>
-</table>
-
-<!--page-->
-
-Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
+The visualizations are based on the Olist dataset, available at [Olist Data Repository](https://www.kaggle.com/olistbr/brazilian-ecommerce).
 
 
 
