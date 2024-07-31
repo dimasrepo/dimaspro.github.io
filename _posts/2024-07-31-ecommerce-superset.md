@@ -14,7 +14,7 @@ author: Dimas
 paginate: true
 ---
 
-#Ecommerce Superset
+# Ecommerce Superset
 
 ![Super Store](https://github.com/user-attachments/assets/a4ba0922-2f44-4279-9675-d30d36a3b514)
 
