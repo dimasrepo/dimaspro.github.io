@@ -14,7 +14,7 @@ paginate: false
 
 # Superstore Sales Data
 
-https://github.com/user-attachments/assets/0297608f-da4d-4efd-8b05-502e64708b64
+![Super Store](https://github.com/user-attachments/assets/fae136fb-8098-47f4-84c2-75e164bdb682)
 
 ## Overview
 The dataset contains information about products, sales, and profits that you can use to identify key areas of improvement within this fictitious company. It consists of 9,994 rows and 21 columns, capturing various details about orders and their corresponding attributes.
