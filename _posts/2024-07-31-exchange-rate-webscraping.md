@@ -2,14 +2,14 @@
 date: 2024-07-31 11:21:53
 layout: post
 title: "Exchange Rate Webscraping"
-subtitle:
+subtitle: This project analyzes currency exchange rates over a specific period using collected data
 description: This project analyzes currency exchange rates in a certain period using collected data. Following are the details and steps to run this application.
 image: https://github.com/user-attachments/assets/fd543499-dd7a-4850-befd-f1090a8edec9
 optimized_image:
-category:
-tags:
-author:
-paginate: false
+category: Webscraping
+tags: Python
+author: Dimas
+paginate: true
 ---
 
 # Exchange Rate Analysis USD to IDR
