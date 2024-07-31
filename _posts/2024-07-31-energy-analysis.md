@@ -12,7 +12,6 @@ author: Dimas
 paginate: true
 ---
 # Global Energy Transition Statistics
-![Energy](https://github.com/user-attachments/assets/cb67bf4b-c9e1-4fc5-8d49-18d992b3290d)
 
 ## Overview
 Access 2023 world energy and climate data and key decarbonisation indices through Enerdata's interactive data tool. This README file provides a summary of the dataset, including features and key points to consider during analysis.
