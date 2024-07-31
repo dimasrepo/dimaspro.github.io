@@ -4,7 +4,7 @@ layout: post
 title: "Exchange Rate Webscraping"
 subtitle:
 description: This project analyzes currency exchange rates in a certain period using collected data. Following are the details and steps to run this application.
-image: ![Webscarp](https://github.com/user-attachments/assets/ace185f1-2878-48e0-86d4-d7e5b0646899)
+image: https://github.com/user-attachments/assets/fd543499-dd7a-4850-befd-f1090a8edec9
 optimized_image:
 category:
 tags:
