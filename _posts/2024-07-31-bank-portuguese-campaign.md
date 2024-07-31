@@ -1,7 +1,7 @@
 ---
 date: 2024-07-31 11:19:38
 layout: post
-title: "Bank Portuguese Campaign"
+title: "Bank Marketing Data"
 subtitle: The dataset is related to direct marketing campaigns of a Portuguese banking institution
 description: The dataset is related to direct marketing campaigns of a Portuguese banking institution. The marketing campaigns were based on phone calls, often requiring multiple contacts with the same client to assess if the product (bank term deposit) would be subscribed ('yes') or not ('no'). The dataset consists of 45,211 instances with 16 features.
 image: https://github.com/user-attachments/assets/057ff5bc-ccb3-4a67-8980-72eb0b9f4b3e
@@ -11,8 +11,6 @@ tags: Rpubs
 author: Dimas
 paginate: true
 ---
-
-# Bank Marketing Data
 
 ## Overview
 The dataset is related to direct marketing campaigns of a Portuguese banking institution. The marketing campaigns were based on phone calls, often requiring multiple contacts with the same client to assess if the product (bank term deposit) would be subscribed ('yes') or not ('no'). The dataset consists of 45,211 instances with 16 features.
