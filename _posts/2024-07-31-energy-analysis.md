@@ -66,5 +66,11 @@ This directory contains the following files:
 
 Start exploring and stay ahead with the latest energy trends and data.
 
-## Dataset Source :
-https://energydata.info/dataset/global-energy-statistics-yearbook-dataset
+## Source
+The dataset used in this project can be found at the following link:
+[Global Energy Transition Statistic](https://energydata.info/dataset/global-energy-statistics-yearbook-dataset)
+
+Report for this project can be found at the following link:
+[Global Energy Transition Statistic](https://dimasaditya.shinyapps.io/Energy_Analysis/)
+
+
