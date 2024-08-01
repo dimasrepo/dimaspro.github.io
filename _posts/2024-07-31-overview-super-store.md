@@ -66,7 +66,5 @@ This directory contains the following files:
 ## Source
 
 Report for this project can be found at the following link:
-[Overview Super Store]([https://rpubs.com/senddimas/1204651](https://public.tableau.com/app/learn/sample-data))
-
-
+[Overview Super Store](https://public.tableau.com/app/profile/dimas.aditya1967/viz/Book2_17205444246130/ExecutiveOverview)
 
