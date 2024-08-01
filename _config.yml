@@ -9,6 +9,7 @@ tags:
   - theme
   - netlify
 show_hero: true
+
 menu:
   - title: Home
     url: /
@@ -16,15 +17,17 @@ menu:
     url: /about
   - title: Contact
     url: /contact
- - title: Feed
- #   url: /feed.xml
+  - title: Feed
+    url: /feed.xml
+
 email: senddimasadit@gmail.com
+
 # See: https://disqus.com/
-#disqus_username: disqus_username
+# disqus_username: disqus_username
+
 # Contact Form Setting
 # See: https://formspree.io/
-#formspree_form_id: formspree_form_id
-
+# formspree_form_id: formspree_form_id
 
 # Social Media Settings
 # Remove the item if you don't need it
@@ -35,13 +38,11 @@ instagram_username: instagram_username
 linkedin_username: dimas-a-11b184122/
 medium_username: medium_username
 
-
 # Posts Settings
 show_time_bar: true
 show_modal_on_exit: false
 show_modal_on_finish_post: true
 two_columns_layout: true
-
 
 # Advanced Settings
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -50,7 +51,6 @@ google_analytics: "UA-XXXXXXXX-X"
 language: "en"
 categories_folder: category
 sent_message_url: "/contact/message-sent/"
-
 
 # Build settings
 markdown: kramdown
@@ -108,5 +108,5 @@ exclude: [
   'README.md'
 ]
 
-# Theme
- version: v3.1.2
+# Theme version
+version: v3.1.2
