@@ -4,7 +4,7 @@ layout: post
 title: "Youtube Analysis"
 subtitle: 
 description: This project aims to analyze trending YouTube videos for 2023, focusing on various aspects such as views, likes, and the impact of different publishing times and categories on video performance.
-image: ![Yt6](https://github.com/user-attachments/assets/24acd77e-6c53-4edf-8f66-e99c98e2b410)
+image: https://github.com/user-attachments/assets/24acd77e-6c53-4edf-8f66-e99c98e2b410
 
 optimized_image:
 category: Dashboard
