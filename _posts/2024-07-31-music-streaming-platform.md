@@ -72,6 +72,7 @@ When reporting on the dataset:
 - **Highlight any interesting trends** or anomalies.
 - **Provide visualizations** to support your analysis and make the data more understandable.
 
-## Dataset Source
+## Source
 
-This dataset is manually compiled from various music streaming platforms. For further verification or updates, please refer to the official streaming platforms or their APIs.
+Report for this project can be found at the following link:
+[Music Streaming Platform](https://public.tableau.com/app/profile/dimas.aditya1967/viz/PlatformAnalysis_17217242726340/Dashboard1)
