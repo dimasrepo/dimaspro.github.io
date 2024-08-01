@@ -18,7 +18,7 @@ menu:
   - title: Contact
     url: /contact
   - title: Feed
-    url: /feed.xml
+    #url: /feed.xml
 
 email: senddimasadit@gmail.com
 
@@ -109,4 +109,4 @@ exclude: [
 ]
 
 # Theme version
-version: v3.1.2
+version: v3.3.3
