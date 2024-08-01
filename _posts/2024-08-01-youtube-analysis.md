@@ -12,7 +12,6 @@ tags: Shiny
 author: Dimas
 paginate: true
 ---
-# YouTube Analysis Project
 
 ## Overview
 This project aims to analyze trending YouTube videos for 2023, focusing on various aspects such as views, likes, and the impact of different publishing times and categories on video performance. The dataset includes information about 72,397 videos with 16 variables ranging from trending dates to viewer engagement metrics.
