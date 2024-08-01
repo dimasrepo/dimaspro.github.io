@@ -74,5 +74,12 @@ This directory contains the following files:
 1. Summarize findings in reports or presentations.
 2. Highlight key insights and recommendations based on the analysis.
 
-## Dataset Source :
-https://www.kaggle.com/datasets/faysal1998/analyzing-crime-trends
+
+## Source
+The dataset used in this project can be found at the following link:
+[Analyzing Crime Trends: Merging and Exploring Bedfordshire and Essex Police Data](https://www.kaggle.com/datasets/faysal1998/analyzing-crime-trends)
+
+Report for this project can be found at the following link:
+[Analyzing Crime Trends: Merging and Exploring Bedfordshire and Essex Police Data](https://dimasaditya.shinyapps.io/Crime_in_United_Kingdom/)
+
+
