@@ -81,4 +81,4 @@ The dataset used in this project can be found at the following link:
 [Bank Portuguese](https://archive.ics.uci.edu/dataset/222/bank+marketing)
 
 Report for this project can be found at the following link:
-[Bank Portuguese](rpubs.com/senddimas/1201699)
+[Bank Portuguese](https://rpubs.com/senddimas/1201699)
