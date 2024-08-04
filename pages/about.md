@@ -14,19 +14,19 @@ permalink: /about/
 Consistent approach to learning ensures that I remain adaptable, innovative, and proficient in all that I do
 
 ## Languages and Tools 📖
+
 <div>
 
-### Languages :
+### Languages:
 | Python  | R        | SQL      |
 |---------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="55" height="55"/> | <img src="https://png.pngtree.com/png-clipart/20240221/original/pngtree-uiux-app-logo-design-iconic-sql-database-business-photo-png-image_14376088.png" title="SQL" alt="SQL" width="55" height="55"/> |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white) | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white) |
 
-
-
-### Tools :
+### Tools:
 | Power BI                           | Tableau                          | Vscode                             | RStudio                             | Conda                               | Jupyter                             | Docker                              | Apache Superset                     | SQLite                             | PostgreSQL                          |
 |------------------------------------|----------------------------------|------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|-------------------------------------|-------------------------------------|------------------------------------|-------------------------------------|
-| <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" title="Power BI" alt="Power BI" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" title="Tableau" alt="Tableau" width="90" height="30"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Vscode" alt="Vscode" width="55" height="55"/> | <img src="https://www.rstudio.com/wp-content/uploads/2018/10/RStudio-Logo-Flat.png" title="RStudio" alt="RStudio" width="90" height="30"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Conda" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/> | <img src="https://logowik.com/content/uploads/images/apache-superset6810.logowik.com.webp" title="Apache Superset" alt="Apache Superset" width="80" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" title="PostgreSQL" alt="PostgreSQL" width="55" height="55"/> |
+| ![Power BI](https://img.shields.io/badge/Power_BI-FF5722?style=flat&logo=powerbi&logoColor=white) | ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white) | ![Vscode](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) | ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=rstudio&logoColor=white) | ![Conda](https://img.shields.io/badge/Conda-44A833?style=flat&logo=anaconda&logoColor=white) | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) | ![Apache Superset](https://img.shields.io/badge/Apache_Superset-0A1F3D?style=flat&logo=apache-superset&logoColor=white) | ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) |
+
 
 
 
