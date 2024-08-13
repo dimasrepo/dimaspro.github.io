@@ -1,5 +1,9 @@
 ---
+<<<<<<< HEAD
 date: 2024-08-13 16:34:54
+=======
+date: 2024-08-13 19:12:49
+>>>>>>> 2c041cb174245bfea50b9e0ce8220e61432974d3
 layout: post
 title: "Exploratory Project"
 subtitle: "A range of data science projects is available for exploration"
