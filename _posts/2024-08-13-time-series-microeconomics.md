@@ -108,7 +108,7 @@ Insights: Provide actionable insights based on the analysis.
 
 ## Source
 The dataset used in this project can be found at the following link:
-[Global TSDL](https://pkg.yangzhuoranyang.com/tsdl/)
+[TSDL](https://pkg.yangzhuoranyang.com/tsdl/)
 
 Report for this project can be found at the following link:
-[Global Energy Transition Statistic](https://dimasaditya.shinyapps.io/Energy_Analysis/)
+[Time Series Microeconomics](https://rpubs.com/senddimas/1210655)
