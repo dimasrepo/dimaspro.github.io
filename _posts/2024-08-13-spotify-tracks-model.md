@@ -3,14 +3,12 @@ date: 2024-08-13 14:52:13
 layout: post
 title: "Spotify Tracks Model"
 subtitle: This series of articles will explore how the Spotify Web API was used to automatically retrieve data, with a focus on this topic.
-description:
-image: ![spot](https://github.com/user-attachments/assets/73da0e6d-9916-4bdb-ac1a-182d7a92e4b0)
-
-optimized_image: ![spot](https://github.com/user-attachments/assets/b8adbf61-ee0b-4b2f-9dfa-e8ddb8ea00fd)
-
-category:
-tags:
-author:
+description: Explore how the Spotify Web API can be used to automatically retrieve and analyze track data.
+image: ![Spotify](https://github.com/user-attachments/assets/73da0e6d-9916-4bdb-ac1a-182d7a92e4b0)
+optimized_image: ![Spotify](https://github.com/user-attachments/assets/b8adbf61-ee0b-4b2f-9dfa-e8ddb8ea00fd)
+category: Rpubs
+tags: [Rpubs]
+author: Dimas
 paginate: false
 ---
 
