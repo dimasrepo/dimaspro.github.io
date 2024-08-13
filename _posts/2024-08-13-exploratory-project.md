@@ -1,5 +1,5 @@
 ---
-date: 2024-08-01 19:12:49
+date: 2024-08-13 16:34:54
 layout: post
 title: "Exploratory Project"
 subtitle: "A range of data science projects is available for exploration"
