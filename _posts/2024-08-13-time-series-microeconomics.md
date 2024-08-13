@@ -6,7 +6,6 @@ subtitle: In this project, we will use the Microeconomic time series data from t
 description:
 image:  ![hour](https://github.com/user-attachments/assets/ff4f8c7a-5920-4c68-929a-a993e9570c7f)
 optimized_image: ![hour](https://github.com/user-attachments/assets/ff4f8c7a-5920-4c68-929a-a993e9570c7f)
-
 category:
 tags:
 author:
