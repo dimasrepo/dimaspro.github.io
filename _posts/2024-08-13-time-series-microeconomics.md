@@ -6,7 +6,7 @@ subtitle: "In this project, we will use the Microeconomic time series data from 
 description: ""
 image: https://github.com/user-attachments/assets/0abf5704-7283-4191-84cb-46d4737ef854
 optimized_image: https://github.com/user-attachments/assets/0abf5704-7283-4191-84cb-46d4737ef854
-tags: [Rpubs]
+tags: Rpubs
 author: Dimas
 paginate: false
 ---
