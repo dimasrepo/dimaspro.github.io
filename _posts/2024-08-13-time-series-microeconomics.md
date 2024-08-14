@@ -10,7 +10,6 @@ tags: [Rpubs]
 author: Dimas
 paginate: false
 ---
-# Time Series Forecasting with Microeconomic Data
 
 ## Overview
 

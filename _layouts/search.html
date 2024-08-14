@@ -6,8 +6,8 @@
   {% for post in posts %}
     {
       "title"    : "{{ post.title | escape }}",
-      "tags"     : "{{ post.tags | array_to_sentence_string }}",
-      "categories" : "{{ post.category }}",
+      "tags"     : "{{ post.tags | default: "" | array_to_sentence_string }}",
+      "categories" : "{{ post.category | default: "" }}",
       "url"      : "{{ site.baseurl }}{{ post.url }}",
       "date"     : "{{ post.date | date: date_format }}"
     } {% unless forloop.last %},{% endunless %}
