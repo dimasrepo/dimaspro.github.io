@@ -3,7 +3,7 @@ date: 2024-07-31 11:18:52
 layout: post
 title: "Music Streaming Platform"
 subtitle: It offers insights into streaming performance, useful for analyzing music consumption trends and patterns.
-description: This dataset contains music streaming data for various artists across multiple platforms, including Spotify, YouTube Music, Joox, and Apple Music. The dataset provides insights into the streaming performance of different artists, which can be used for analysis and visualization to understand trends and patterns in music consumption.
+description: This dataset contains music streaming data for various artists across multiple platforms, including Spotify, YouTube Music, Joox, and Apple Music. 
 image: https://github.com/user-attachments/assets/6eda4f4d-a771-4beb-b90f-ad6850040601
 optimized_image: 
 category: Tableau Dashboard
