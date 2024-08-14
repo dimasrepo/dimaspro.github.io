@@ -97,7 +97,7 @@ Visualizations include:
 Time Series Plots: Display the time series data and its components.
 Forecast Plots: Show the forecasts and confidence intervals.
 
-###Reporting
+### Reporting
 Generate reports summarizing:
 
 Model Performance: Compare the forecasting accuracy of different models.
