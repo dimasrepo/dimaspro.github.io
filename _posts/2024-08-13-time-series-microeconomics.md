@@ -5,7 +5,7 @@ title: "Time Series Microeconomics"
 subtitle: "In this project, we will use the Microeconomic time series data from the Time Series Data Library to develop and evaluate four forecasting models—ARIMA, Holt’s Winter, STLF, and TBATS—to determine the most accurate method for predicting future profits and enhancing strategic financial planning."
 description: ""
 image: https://github.com/user-attachments/assets/0abf5704-7283-4191-84cb-46d4737ef854
-optimized_image: ""
+optimized_image: https://github.com/user-attachments/assets/0abf5704-7283-4191-84cb-46d4737ef854
 tags: [Rpubs]
 author: Dimas
 paginate: false
