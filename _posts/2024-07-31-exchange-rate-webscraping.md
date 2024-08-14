@@ -6,7 +6,7 @@ subtitle: This project analyzes currency exchange rates over a specific period u
 description: This project analyzes currency exchange rates in a certain period using collected data. Following are the details and steps to run this application.
 image: https://github.com/user-attachments/assets/fd543499-dd7a-4850-befd-f1090a8edec9
 optimized_image:
-category: Webscraping
+category: Webscraping Python
 tags: Python
 author: Dimas
 paginate: true
