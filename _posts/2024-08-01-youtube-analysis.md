@@ -7,7 +7,7 @@ description: This project aims to analyze trending YouTube videos for 2023, focu
 image: https://github.com/user-attachments/assets/24acd77e-6c53-4edf-8f66-e99c98e2b410
 
 optimized_image:
-category: Dashboard
+category: Shinyapp Dashboard
 tags: Shiny
 author: Dimas
 paginate: true
