@@ -16,21 +16,22 @@ Consistent approach to learning ensures that I remain adaptable, innovative, and
 ## Languages and Tools 📖
 
 ### Languages:
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="55" height="55">
-- ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white) <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" width="55" height="55">
-- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white) <img src="https://github.com/devicons/devicon/blob/master/icons/sql/sql-original.svg" width="55" height="55">
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+- ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white)
 
 ### Tools:
-- ![Power BI](https://img.shields.io/badge/Power_BI-FF5722?style=flat&logo=powerbi&logoColor=white) <img src="https://github.com/devicons/devicon/blob/master/icons/powerbi/powerbi-original.svg" width="55" height="55">
-- ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white) <img src="https://github.com/devicons/devicon/blob/master/icons/tableau/tableau-original.svg" width="55" height="55">
-- ![Vscode](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="55" height="55">
-- ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=rstudio&logoColor=white) <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" width="55" height="55">
-- ![Conda](https://img.shields.io/badge/Conda-44A833?style=flat&logo=anaconda&logoColor=white) <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" width="55" height="55">
-- ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" width="55" height="55">
-- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="55" height="55">
-- ![Apache Superset](https://img.shields.io/badge/Apache_Superset-0A1F3D?style=flat&logo=apache-superset&logoColor=white) <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" width="55" height="55">
-- ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white) <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" width="55" height="55">
-- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="55" height="55">
+- ![Power BI](https://img.shields.io/badge/Power_BI-FF5722?style=flat&logo=powerbi&logoColor=white)
+- ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+- ![Vscode](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+- ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=rstudio&logoColor=white)
+- ![Conda](https://img.shields.io/badge/Conda-44A833?style=flat&logo=anaconda&logoColor=white)
+- ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+- ![Apache Superset](https://img.shields.io/badge/Apache_Superset-0A1F3D?style=flat&logo=apache-superset&logoColor=white)
+- ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+
 
 ### Best Libraries:
 
