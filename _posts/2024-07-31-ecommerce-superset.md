@@ -6,7 +6,7 @@ subtitle: "This repository contains a collection of visualizations created with 
 description: "The dashboards provide insights into various aspects of the Olist dataset, including product performance, sales trends, customer profiles, and more."
 image: https://github.com/user-attachments/assets/02b3a354-0372-4873-bd3d-880fa35b1455
 optimized_image: https://github.com/user-attachments/assets/02b3a354-0372-4873-bd3d-880fa35b1455
-category: Dashboard
+category: Superset Apache
 tags:
   - PostgreSQL
   - Apache
