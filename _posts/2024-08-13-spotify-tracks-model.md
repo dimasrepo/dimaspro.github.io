@@ -86,31 +86,31 @@ summary(data2)
 
 # Analyzing Trends
 
-## Clustering Potential: Assess the potential of features for clustering by examining their distributions.
+### Clustering Potential: Assess the potential of features for clustering by examining their distributions.
 Example: Distribution plot
 ggplot(data2, aes(x = acousticness, fill = mode)) + geom_histogram()
 
-## Principal Component Analysis (PCA): Use PCA to identify principal components and reduce dimensionality.
+### Principal Component Analysis (PCA): Use PCA to identify principal components and reduce dimensionality.
 data_scale <- scale(data2)
 pca_result <- prcomp(data_scale)
 summary(pca_result)
 
-# Visualizations
+## Visualizations
 
-## Correlation Matrix: Visualize correlations between features to understand relationships.
+### Correlation Matrix: Visualize correlations between features to understand relationships.
 ggcorr(data2, label = TRUE)
 ## PCA Biplot: Plot PCA results to visualize data in reduced dimensions.
 biplot(pca_result)
 
-# Reporting
+## Reporting
 
-## Clustering Results: Save and review clustering results.
+### Clustering Results: Save and review clustering results.
 write.csv(clustering_results, "results/clustering_results.csv")
 PCA Results: Save PCA results for further analysis.
 write.csv(pca_result$x, "results/pca_results.csv")
 
 
-# Dataset Source
+## Dataset Source
 The dataset used in this project can be found at the following link: 
 [Ultimate Spotify Tracks DB](https://www.kaggle.com/datasets/zaheenhamidani/ultimate-spotify-tracks-db/data)
 
