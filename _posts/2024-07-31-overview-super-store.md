@@ -15,6 +15,8 @@ paginate: true
 ## Overview
 The dataset contains information about products, sales, and profits that you can use to identify key areas of improvement within this fictitious company. It consists of 9,994 rows and 21 columns, capturing various details about orders and their corresponding attributes.
 
+Click this link to directly access the report: [Overview Super Store](https://public.tableau.com/app/profile/dimas.aditya1967/viz/Book2_17205444246130/ExecutiveOverview)
+
 ## Directory Structure
 This directory contains the following files:
 - `superstore_sales.csv`: Superstore sales data.
