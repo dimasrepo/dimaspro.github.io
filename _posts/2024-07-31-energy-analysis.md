@@ -15,7 +15,7 @@ paginate: true
 ## Overview
 Access 2023 world energy and climate data and key decarbonisation indices through Enerdata's interactive data tool. This file provides a summary of the dataset, including features and key points to consider during analysis.
 
-Click this link to directly access the report: [Energy Anlysisl Energy Transition Statistic](https://dimasaditya.shinyapps.io/Energy_Analysis/)
+Click this link to directly access the report: [Energy Anlysis](https://dimasaditya.shinyapps.io/Energy_Analysis/)
 
 ## Directory Structure
 This directory contains the following files:
