@@ -16,6 +16,8 @@ paginate: true
 ## Overview
 This project aims to analyze trending YouTube videos for 2023, focusing on various aspects such as views, likes, and the impact of different publishing times and categories on video performance. The dataset includes information about 72,397 videos with 16 variables ranging from trending dates to viewer engagement metrics.
 
+Click this link to directly access the report:[YouTube Analysis Project Report](https://dimasaditya.shinyapps.io/Youtube_Analysis/)
+
 ## Directory Structure
 - `data/`: Contains the dataset used for analysis.
 - `scripts/`: Includes the R scripts used for data cleaning, analysis, and visualization.
