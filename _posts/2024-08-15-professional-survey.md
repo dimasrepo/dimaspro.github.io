@@ -2,8 +2,8 @@
 date: 2024-08-15 16:17:22
 layout: post
 title: "World Professional Survey"
-subtitle:
-description:
+subtitle: Explores various elements of the data profession, such as salary ranges, job satisfaction, and career changes among individuals working in data-related roles.
+description: This dataset provides insights into various aspects of the data profession, including salary ranges, job satisfaction, and career transitions among data professionals.
 image: https://github.com/user-attachments/assets/5f09cf88-daca-447a-9a2b-7d43b671a889
 optimized_image:
 category: Power BI Dashboard
