@@ -16,6 +16,8 @@ paginate: true
 
 This dataset contains music streaming data for various artists across multiple platforms, including Spotify, YouTube Music, Joox, and Apple Music. The dataset provides insights into the streaming performance of different artists, which can be used for analysis and visualization to understand trends and patterns in music consumption.
 
+Click this link to directly access the report: [Music Streaming Platform](https://public.tableau.com/app/profile/dimas.aditya1967/viz/PlatformAnalysis_17217242726340/Dashboard1)
+
 ## Directory Structure
 
 This directory contains the following files:
