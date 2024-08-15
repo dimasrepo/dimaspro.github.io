@@ -12,10 +12,10 @@ author: Dimas
 paginate: true
 ---
 
+## Overview
 In October 2023, James Hoffmann conducted a direct taste test with approximately 4,000 participants in the US. A month later, he released survey data from the taste test where each participant received four unlabeled coffee samples. This survey provides interesting statistical insights. Let's visualize some of the key findings.
 
-## Source
-Data source: [TidyTuesday 2024-05-14](https://github.com/rfordatascience/tidytuesday/blob/master/data/2024/2024-05-14/readme.md)
+Click this link to directly access the report: [Coffe Trend and Recipe](https://rpubs.com/senddimas/1207013)
 
 ## Business Questions
 1. What age group has the highest coffee consumption?
@@ -35,7 +35,7 @@ Based on the survey data, we conclude that coffee consumption is highest among i
 
 ## Source
 The dataset used in this project can be found at the following link:
-[Coffe Trend and Recipe](https://github.com/rfordatascience/tidytuesday/blob/master/data/2024/2024-05-14/readme.md)
+[TidyTuesday](https://github.com/rfordatascience/tidytuesday/blob/master/data/2024/2024-05-14/readme.md)
 
 Report for this project can be found at the following link:
 [Coffe Trend and Recipe](https://rpubs.com/senddimas/1207013)
