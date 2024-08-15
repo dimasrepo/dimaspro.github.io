@@ -17,6 +17,8 @@ paginate: false
 
 This project explores a dataset from Spotify, focusing on clustering analysis using the K-means method and examining the possibility of dimensionality reduction through Principal Component Analysis (PCA). The dataset, sourced from Kaggle, includes various audio features of tracks that will be analyzed to identify patterns and insights.
 
+Click this link to directly access the report: [Spotify Tracks Model](https://rpubs.com/senddimas/1210395)
+
 ## Directory Structure
 
 - `README.md`: This documentation file.
