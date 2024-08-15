@@ -4,7 +4,7 @@ layout: post
 title: "World Professional Survey"
 subtitle: Explores various elements of the data profession, such as salary ranges, job satisfaction, and career changes among individuals working in data-related roles.
 description: This dataset provides insights into various aspects of the data profession, including salary ranges, job satisfaction, and career transitions among data professionals.
-image: https://github.com/user-attachments/assets/5f09cf88-daca-447a-9a2b-7d43b671a889
+image: https://github.com/user-attachments/files/16627967/Professional.Survey.pdf
 optimized_image:
 category: Power BI Dashboard
 tags: Power BI
@@ -15,6 +15,8 @@ paginate: true
 ## Overview
 
 This project analyzes survey data related to the data industry, focusing on various aspects such as job titles, salaries, programming languages, and job satisfaction. The dataset includes responses from individuals in the data field, providing insights into their roles, experiences, and preferences.
+
+Click this link to directly access the report:
 
 ## Business Question
 
@@ -113,6 +115,7 @@ The analysis provides insights into salary trends, job satisfaction, and career 
 
 ## Source
 The dataset used in this project can be found at the following link : 
+[Professional Survey.pdf](https://github.com/user-attachments/files/16627967/Professional.Survey.pdf)
 
 The dataset used in this project can be found at the following link:
 [World Professional Survey Dataset](https://github.com/AlexTheAnalyst/Power-BI/blob/main/Power%20BI%20-%20Final%20Project.xlsx)
