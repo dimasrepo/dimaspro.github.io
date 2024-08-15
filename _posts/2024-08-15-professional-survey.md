@@ -4,10 +4,10 @@ layout: post
 title: "Professional Survey"
 subtitle:
 description:
-image:
+image: https://github.com/user-attachments/assets/5f09cf88-daca-447a-9a2b-7d43b671a889
 optimized_image:
-category:
-tags:
-author:
-paginate: false
+category: Power BI Dashboard
+tags: Power BI
+author: Dimas
+paginate: true
 ---
