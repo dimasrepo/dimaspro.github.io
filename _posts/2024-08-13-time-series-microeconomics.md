@@ -16,6 +16,8 @@ paginate: false
 
 In this project, we focus on time series data from the Time Series Data Library (FinYang/tsdl). The dataset encompasses a wide range of 648 time series across various domains. Specifically, we examine the Microeconomic data subset, which includes 36 time series records. The data spans different frequencies, from very high (0.1) to annual (365), and covers a variety of subjects relevant to time series analysis. The goal is to develop and assess forecasting models tailored to microeconomic variables, providing insights and predictions for economic analysis and decision-making.
 
+Click this link to directly access the report: [Time Series Microeconomics](https://rpubs.com/senddimas/1210655)
+
 ## Directory Structure
 
 The directory structure for this project is as follows:
