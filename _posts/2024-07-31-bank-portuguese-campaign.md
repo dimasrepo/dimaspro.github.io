@@ -15,6 +15,8 @@ paginate: true
 ## Overview
 The dataset is related to direct marketing campaigns of a Portuguese banking institution. The marketing campaigns were based on phone calls, often requiring multiple contacts with the same client to assess if the product (bank term deposit) would be subscribed ('yes') or not ('no'). The dataset consists of 45,211 instances with 16 features.
 
+Click this link to directly access the report: [Bank Portuguese](https://rpubs.com/senddimas/1201699)
+
 ## Directory Structure
 This directory contains the following files:
 - `bank-additional-full.csv`: Contains all examples (41,188) and 20 inputs, ordered by date (from May 2008 to November 2010).
