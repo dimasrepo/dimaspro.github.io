@@ -1,7 +1,7 @@
 ---
 date: 2024-08-21 11:33:35
 layout: post
-title: "Time Series Scooty"
+title: "Time Series Scotty"
 subtitle: Mastering the art of accurate forecasting with advanced time series analysis.
 description: Dive into a comprehensive exploration of time series data, leveraging sophisticated preprocessing and model selection techniques to achieve precise and reliable predictions.
 image: https://github.com/user-attachments/assets/2f5a751e-0ea7-4e34-aa0d-70355e47cb64
