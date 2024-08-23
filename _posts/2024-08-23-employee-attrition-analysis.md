@@ -1,7 +1,7 @@
 ---
 date: 2024-08-23 10:01:59
 layout: post
-title: "Employee Attrition Analysis"
+title: "Neural Network Approach to Employee Attrition Analysis"
 subtitle: "Understanding Employee Attrition: Analyzing Key Factors Influencing Turnover in the Workplace"
 description: "This dataset contains information on 1,470 employees, exploring various demographic, job-related, and environmental factors to analyze patterns and drivers of employee attrition."
 image: https://github.com/user-attachments/assets/8556a750-fd3e-4521-8332-b100424b52ea
@@ -16,6 +16,8 @@ paginate: false
 ## Overview
 
 The dataset examines employee attrition within a company and includes 1,470 employee records with 35 attributes. These attributes provide insights into various factors influencing employee turnover, such as demographic information, job-related metrics, compensation details, work environment, and career progression. This comprehensive dataset is valuable for understanding the dynamics of employee attrition and identifying key factors that contribute to turnover, enabling targeted interventions to enhance employee retention and organizational stability.
+
+Click this link to directly access the report: [Neural Network Approach to Employee Attrition Analysis](https://rpubs.com/senddimas/1212700)
 
 ## Business Questions
 
