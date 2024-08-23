@@ -21,8 +21,8 @@ Click this link to directly access the report: [Neural Network Approach to Emplo
 
 ## Business Questions
 
-1. **What is the breakdown of distance from home by job role and attrition?**
-2. **How does the average monthly income compare across different education levels and attrition?**
+1. What is the breakdown of distance from home by job role and attrition?
+2. How does the average monthly income compare across different education levels and attrition?
 
 ## Project Structure
 
