@@ -33,43 +33,42 @@ The dataset examines employee attrition within a company and includes 1,470 empl
 
 ## Column Descriptions
 
-| Variable                    | Data Type | Role       | Description                                                        | Example                     |
-|-----------------------------|-----------|------------|--------------------------------------------------------------------|-----------------------------|
-| Age                         | Integer   | Predictor  | Age of the employee                                                | 41                          |
-| Attrition                   | Character | Target     | Whether the employee left the company (Yes, No)                    | Yes                         |
-| BusinessTravel              | Character | Predictor  | Frequency of business travel (Non-Travel, Travel_Rarely, Travel_Frequently) | Travel_Rarely               |
-| DailyRate                   | Integer   | Predictor  | Amount paid per day of work                                        | 1102                        |
-| Department                  | Character | Predictor  | Work department (Research & Development, Sales, Human Resources)   | Sales                       |
-| DistanceFromHome            | Integer   | Predictor  | Distance between company and home                                  | 1                           |
-| Education                   | Integer   | Predictor  | Level of education (1: Below College, 2: College, 3: Bachelor, 4: Master, 5: Doctor) | 2                   |
-| EducationField              | Character | Predictor  | Field of education (Life Sciences, Medical, Human Resources, Technical Degree, Marketing, Other) | Life Sciences |
-| EmployeeCount               | Integer   | Identifier | Count of employees (always 1)                                      | 1                           |
-| EmployeeNumber              | Integer   | Identifier | ID of the employee                                                 | 1                           |
-| EnvironmentSatisfaction     | Integer   | Predictor  | Satisfaction with environment (1: Low, 2: Medium, 3: High, 4: Very High) | 2                     |
-| Gender                      | Character | Predictor  | Gender of the employee (Male, Female)                              | Female                      |
-| HourlyRate                  | Integer   | Predictor  | Amount paid per hour of work                                       | 94                          |
-| JobInvolvement              | Integer   | Predictor  | Level of job involvement (1: Low, 2: Medium, 3: High, 4: Very High) | 3                          |
-| JobLevel                    | Integer   | Predictor  | Level of the job (1 - 5)                                           | 2                           |
-| JobRole                     | Character | Predictor  | Role of the job (Sales Executive, Research Scientist, Laboratory Technician, etc.) | Sales Executive   |
-| JobSatisfaction             | Integer   | Predictor  | Satisfaction with the job (1: Low, 2: Medium, 3: High, 4: Very High) | 4                          |
-| MaritalStatus               | Character | Predictor  | Marital status (Married, Single, Divorced)                         | Single                      |
-| MonthlyIncome               | Integer   | Predictor  | Monthly income                                                     | 5993                        |
-| MonthlyRate                 | Integer   | Predictor  | Monthly rate of pay                                                | 19479                       |
-| NumCompaniesWorked          | Integer   | Predictor  | Number of companies the employee has worked with                   | 8                           |
-| Over18                      | Character | Identifier | Whether the employee is over 18 years old (Yes, No)                | Yes                         |
-| OverTime                    | Character | Predictor  | Whether the employee works overtime frequently (Yes, No)           | Yes                         |
-| PercentSalaryHike           | Integer   | Predictor  | Percentage increase in salary                                      | 11                          |
-| PerformanceRating           | Integer   | Predictor  | Level of performance assessment (1: Low, 2: Good, 3: Excellent, 4: Outstanding) | 3                     |
-| RelationshipSatisfaction    | Integer   | Predictor  | Satisfaction with relationships (1: Low, 2: Medium, 3: High, 4: Very High) | 1                    |
-| StandardHours               | Integer   | Predictor  | Standard work hours (always 80)                                    | 80                          |
-| StockOptionLevel            | Integer   | Predictor  | Stock option level (0 - 3)                                         | 0                           |
-| TotalWorkingYears           | Integer   | Predictor  | Total number of years the employee has worked                      | 8                           |
-| TrainingTimesLastYear       | Integer   | Predictor  | Number of training times in the last year                          | 0                           |
-| WorkLifeBalance             | Integer   | Predictor  | Level of work-life balance (1: Bad, 2: Good, 3: Better, 4: Best)   | 1                           |
-| YearsAtCompany              | Integer   | Predictor  | Number of years at the current company                             | 6                           |
-| YearsInCurrentRole          | Integer   | Predictor  | Number of years in the current role                                | 4                           |
-| YearsSinceLastPromotion     | Integer   | Predictor  | Number of years since last promotion                               | 0                           |
-| YearsWithCurrManager        | Integer   | Predictor  | Number of years with the current manager                           | 5                           |
+- **Age**: Age of the employee  
+- **Attrition**: Whether the employee left the company (Yes, No)  
+- **BusinessTravel**: Frequency of business travel (Non-Travel, Travel_Rarely, Travel_Frequently)  
+- **DailyRate**: Amount paid per day of work  
+- **Department**: Work department (Research & Development, Sales, Human Resources)  
+- **DistanceFromHome**: Distance between company and home  
+- **Education**: Level of education (1: Below College, 2: College, 3: Bachelor, 4: Master, 5: Doctor)  
+- **EducationField**: Field of education (Life Sciences, Medical, Human Resources, Technical Degree, Marketing, Other)  
+- **EmployeeCount**: Count of employees (always 1)  
+- **EmployeeNumber**: ID of the employee  
+- **EnvironmentSatisfaction**: Satisfaction with environment (1: Low, 2: Medium, 3: High, 4: Very High)  
+- **Gender**: Gender of the employee (Male, Female)  
+- **HourlyRate**: Amount paid per hour of work  
+- **JobInvolvement**: Level of job involvement (1: Low, 2: Medium, 3: High, 4: Very High)  
+- **JobLevel**: Level of the job (1 - 5)  
+- **JobRole**: Role of the job (Sales Executive, Research Scientist, Laboratory Technician, etc.)  
+- **JobSatisfaction**: Satisfaction with the job (1: Low, 2: Medium, 3: High, 4: Very High)  
+- **MaritalStatus**: Marital status (Married, Single, Divorced)  
+- **MonthlyIncome**: Monthly income  
+- **MonthlyRate**: Monthly rate of pay  
+- **NumCompaniesWorked**: Number of companies the employee has worked with  
+- **Over18**: Whether the employee is over 18 years old (Yes, No)  
+- **OverTime**: Whether the employee works overtime frequently (Yes, No)  
+- **PercentSalaryHike**: Percentage increase in salary  
+- **PerformanceRating**: Level of performance assessment (1: Low, 2: Good, 3: Excellent, 4: Outstanding)  
+- **RelationshipSatisfaction**: Satisfaction with relationships (1: Low, 2: Medium, 3: High, 4: Very High)  
+- **StandardHours**: Standard work hours (always 80)  
+- **StockOptionLevel**: Stock option level (0 - 3)  
+- **TotalWorkingYears**: Total number of years the employee has worked  
+- **TrainingTimesLastYear**: Number of training times in the last year  
+- **WorkLifeBalance**: Level of work-life balance (1: Bad, 2: Good, 3: Better, 4: Best)  
+- **YearsAtCompany**: Number of years at the current company  
+- **YearsInCurrentRole**: Number of years in the current role  
+- **YearsSinceLastPromotion**: Number of years since last promotion  
+- **YearsWithCurrManager**: Number of years with the current manager  
+
 
 ## Workflow
 
