@@ -104,5 +104,7 @@ Based on the analysis, we conclude that while certain factors such as distance f
 ## Dataset Source
 
 The dataset used in this project can be found at the following link: [Employee Attrition Analysis](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset).
-Report for this project can be found at the following link: [Employee Attrition Analysis](https://rpubs.com/senddimas/1212700)
+
+The report for this project is available here: [Employee Attrition Analysis Report](https://rpubs.com/senddimas/1212700).
+
 ---
