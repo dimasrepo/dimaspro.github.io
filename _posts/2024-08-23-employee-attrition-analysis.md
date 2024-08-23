@@ -2,8 +2,8 @@
 date: 2024-08-23 10:01:59
 layout: post
 title: "Employee Attrition Analysis"
-subtitle: Understanding Employee Attrition: Analyzing Key Factors Influencing Turnover in the Workplace
-description: This dataset contains information on 1,470 employees, exploring various demographic, job-related, and environmental factors to analyze patterns and drivers of employee attrition.
+subtitle: "Understanding Employee Attrition: Analyzing Key Factors Influencing Turnover in the Workplace"
+description: "This dataset contains information on 1,470 employees, exploring various demographic, job-related, and environmental factors to analyze patterns and drivers of employee attrition."
 image: https://github.com/user-attachments/assets/8556a750-fd3e-4521-8332-b100424b52ea
 optimized_image: https://github.com/user-attachments/assets/9a97cce4-3b47-4576-b36b-e905842b57d3
 category: Rpubs
