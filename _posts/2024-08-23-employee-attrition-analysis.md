@@ -9,7 +9,7 @@ optimized_image: https://github.com/user-attachments/assets/9a97cce4-3b47-4576-b
 category: Rpubs
 tags: Rpubs
 author: Dimas
-paginate: true
+paginate: false
 ---
 
 
