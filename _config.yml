@@ -17,7 +17,8 @@ menu:
     url: /about
   - title: Contact
     url: /contact
-
+- title: Add
+    url: /add
 
 email: senddimasadit@gmail.com
 
