@@ -16,8 +16,8 @@ Consistent approach to learning ensures that I remain adaptable, innovative, and
 ## Languages and Tools 📖
 
 ### Languages:
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-- ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+- https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white
+- https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white
 - ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white)
 
 ### Tools:
