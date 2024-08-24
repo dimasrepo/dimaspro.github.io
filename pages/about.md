@@ -42,9 +42,7 @@ Consistent approach to learning ensures that I remain adaptable, innovative, and
 
 ### Certificate
 **Data Visualization in R**
-![Data Visualization in R](https://github.com/user-attachments/assets/231731dd-1d4b-40ee-a98b-6ebd3b92301b)
-
-<img src="https://github.com/user-attachments/assets/231731dd-1d4b-40ee-a98b-6ebd3b92301b" width="150" height="100" alt="Data Visualization in R">
+<img src="https://github.com/user-attachments/assets/231731dd-1d4b-40ee-a98b-6ebd3b92301b" width="500" height="200" alt="Data Visualization in R">
 
 
 
