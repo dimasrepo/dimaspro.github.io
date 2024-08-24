@@ -2,8 +2,8 @@
 date: 2024-08-24 04:26:22
 layout: post
 title: "Wage Analysis"
-subtitle:
-description:
+subtitle: Evaluating Employee Compensation in Relation to Living Costs Across States
+description: This study examines employee compensation data, including gross pay and state pay, against the living wage standards across various states, providing a comprehensive view of wage adequacy and economic well-being of employees.
 image: https://github.com/user-attachments/assets/3408e9ff-544a-4408-9586-6a58932fdd0e
 optimized_image: https://github.com/user-attachments/assets/3408e9ff-544a-4408-9586-6a58932fdd0e
 category: Power BI Dashboard
