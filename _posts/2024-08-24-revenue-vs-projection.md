@@ -2,8 +2,8 @@
 date: 2024-08-24 04:26:48
 layout: post
 title: "Revenue vs Projection"
-subtitle:
-description:
+subtitle: Analyzing Regional Revenue Performance Across Various Geographies
+description: This analysis provides insights into the financial performance of different regions by comparing projected and actual revenues, highlighting key areas of growth and identifying regions that require strategic attention.
 image: https://github.com/user-attachments/assets/e86624f5-db26-442c-85e6-c7691574331d
 optimized_image: https://github.com/user-attachments/assets/e86624f5-db26-442c-85e6-c7691574331d
 category: Power BI Dashboard 
