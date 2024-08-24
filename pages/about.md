@@ -39,22 +39,9 @@ Consistent approach to learning ensures that I remain adaptable, innovative, and
 
 
 
+
 ### Certificate
-[Unsupervised Machine Learning 1.pdf](https://github.com/user-attachments/files/16736733/Unsupervised.Machine.Learning.1.pdf)
-[Time Series and Forecasting.pdf](https://github.com/user-attachments/files/16736732/Time.Series.and.Forecasting.pdf)
-[SQL Query.pdf](https://github.com/user-attachments/files/16736731/SQL.Query.pdf)
-[Regression Model.pdf](https://github.com/user-attachments/files/16736730/Regression.Model.pdf)
-[Python for Data Analysts.pdf](https://github.com/user-attachments/files/16736729/Python.for.Data.Analysts.pdf)
-[Programming for Data Science.pdf](https://github.com/user-attachments/files/16736728/Programming.for.Data.Science.pdf)
-[Practical Statistics for Data Science.pdf](https://github.com/user-attachments/files/16736727/Practical.Statistics.for.Data.Science.pdf)
-[Neural Network and Deep Learning.pdf](https://github.com/user-attachments/files/16736726/Neural.Network.and.Deep.Learning.pdf)
-[Intro to Machine Learning 2.pdf](https://github.com/user-attachments/files/16736725/Intro.to.Machine.Learning.2.pdf)
-[Intro to Machine Learning 1.pdf](https://github.com/user-attachments/files/16736724/Intro.to.Machine.Learning.1.pdf)
-[Interactive Plotting and Web Dashboard.pdf](https://github.com/user-attachments/files/16736723/Interactive.Plotting.and.Web.Dashboard.pdf)
-[Exploratory Data Analysis.pdf](https://github.com/user-attachments/files/16736722/Exploratory.Data.Analysis.pdf)
-[Data Wrangling and Visualization.pdf](https://github.com/user-attachments/files/16736721/Data.Wrangling.and.Visualization.pdf)
-[Data Visualization in R.pdf](https://github.com/user-attachments/files/16736720/Data.Visualization.in.R.pdf)
-[Classification 2.pdf](https://github.com/user-attachments/files/16736719/Classification.2.pdf)
-[Classification 1.pdf](https://github.com/user-attachments/files/16736718/Classification.1.pdf)
+**Data Visualization in R**
+![Data Visualization in R](https://github.com/user-attachments/assets/231731dd-1d4b-40ee-a98b-6ebd3b92301b)
 
 
