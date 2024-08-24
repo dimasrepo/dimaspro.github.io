@@ -61,16 +61,21 @@ Consistent approach to learning ensures that I remain adaptable, innovative, and
 
 
 ### Certificate
-![SQL Query_page-0001](https://github.com/user-attachments/assets/d29bdccd-49b8-424d-9a6a-45a2b5ee3e3b)
-![Python for Data Analysts_page-0001](https://github.com/user-attachments/assets/2b208e93-19f4-437d-84d4-34aa36a08f9b)
-![Programming for Data Science_page-0001](https://github.com/user-attachments/assets/b65c09df-d21f-4ad9-b6dd-e91ff1e5a2cd)
-![Practical Statistics for Data Science_page-0001](https://github.com/user-attachments/assets/7a015397-48fc-42f9-93b3-2588d7d68d72)
-![Intro to Machine Learning 2_page-0001](https://github.com/user-attachments/assets/edaa98f0-f9c6-46f8-a8c7-50dfd8d728d2)
-![Intro to Machine Learning 1_page-0001](https://github.com/user-attachments/assets/493e2a4c-76fb-4cbf-ac58-43bf81f8486d)
-![Interactive Plotting and Web Dashboard_page-0001](https://github.com/user-attachments/assets/68233cda-09bd-42be-988e-29325966591d)
-![Exploratory Data Analysis_page-0001](https://github.com/user-attachments/assets/bdc93eb8-5702-492e-b1c4-2b1386c7ece0)
-![Data Wrangling and Visualization_page-0001](https://github.com/user-attachments/assets/5cfd841c-432b-43c0-bebe-957cb7ca3025)
-![Data Visualization in R_page-0001](https://github.com/user-attachments/assets/b7b5f767-d4a5-40a7-b9e2-3a535f670c44)
-
+[Unsupervised Machine Learning 1.pdf](https://github.com/user-attachments/files/16736733/Unsupervised.Machine.Learning.1.pdf)
+[Time Series and Forecasting.pdf](https://github.com/user-attachments/files/16736732/Time.Series.and.Forecasting.pdf)
+[SQL Query.pdf](https://github.com/user-attachments/files/16736731/SQL.Query.pdf)
+[Regression Model.pdf](https://github.com/user-attachments/files/16736730/Regression.Model.pdf)
+[Python for Data Analysts.pdf](https://github.com/user-attachments/files/16736729/Python.for.Data.Analysts.pdf)
+[Programming for Data Science.pdf](https://github.com/user-attachments/files/16736728/Programming.for.Data.Science.pdf)
+[Practical Statistics for Data Science.pdf](https://github.com/user-attachments/files/16736727/Practical.Statistics.for.Data.Science.pdf)
+[Neural Network and Deep Learning.pdf](https://github.com/user-attachments/files/16736726/Neural.Network.and.Deep.Learning.pdf)
+[Intro to Machine Learning 2.pdf](https://github.com/user-attachments/files/16736725/Intro.to.Machine.Learning.2.pdf)
+[Intro to Machine Learning 1.pdf](https://github.com/user-attachments/files/16736724/Intro.to.Machine.Learning.1.pdf)
+[Interactive Plotting and Web Dashboard.pdf](https://github.com/user-attachments/files/16736723/Interactive.Plotting.and.Web.Dashboard.pdf)
+[Exploratory Data Analysis.pdf](https://github.com/user-attachments/files/16736722/Exploratory.Data.Analysis.pdf)
+[Data Wrangling and Visualization.pdf](https://github.com/user-attachments/files/16736721/Data.Wrangling.and.Visualization.pdf)
+[Data Visualization in R.pdf](https://github.com/user-attachments/files/16736720/Data.Visualization.in.R.pdf)
+[Classification 2.pdf](https://github.com/user-attachments/files/16736719/Classification.2.pdf)
+[Classification 1.pdf](https://github.com/user-attachments/files/16736718/Classification.1.pdf)
 
 
