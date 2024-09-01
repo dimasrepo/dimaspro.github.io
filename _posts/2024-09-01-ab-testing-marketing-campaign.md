@@ -75,7 +75,9 @@ The primary goals of this analysis are:
    - **Statistical Testing**: Conduct statistical tests to validate findings.
 
 4. **Conclusion**
-   - Summarize the findings from the analysis and provide insights into the effectiveness of the marketing campaign.
+   - The analysis of the marketing campaign data aligns closely with the project's primary objectives of assessing campaign success and quantifying success attribution. By examining the optimal timing for campaigns—such as targeting Mondays and specific hours like 16:00—and evaluating how ad exposure impacts conversion rates, the study provides essential insights into the effectiveness of advertising strategies. The analysis reveals that Mondays, particularly in the late afternoon, consistently yield higher conversion rates, which is crucial for predicting campaign success and optimizing ad scheduling to enhance impact. Additionally, identifying the optimal ad exposure range (250-749 exposures) highlights a sweet spot where ads are most effective, addressing the goal of understanding how exposure influences conversions without leading to ad fatigue.
+
+- Quantifying success attribution involves determining how much of the conversion success can be attributed to the ads themselves. The observed correlation between increased ad exposure and higher conversion rates suggests that well-calibrated exposure levels significantly contribute to campaign success. This underscores the importance of managing exposure levels carefully to avoid diminishing returns, ensuring that ads effectively engage users and drive conversions. Overall, the findings offer a clear path to achieving the project's goals by demonstrating the factors that most significantly drive campaign success and accurately attributing this success to the advertisements. Further analysis with additional data could provide even more precise insights, leading to improved campaign planning and resource allocation.
 
 ## Exploring the Data
 The dataset consists of 588,101 observations across 7 variables. Initial inspection shows a balanced mix of converted (0) and not converted (1) users. There are no missing values in the dataset.
