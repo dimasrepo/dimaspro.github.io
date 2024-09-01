@@ -1,7 +1,7 @@
 ---
 date: 2024-09-01 15:40:21
 layout: post
-title: "AB Testing Marketing Campaign"
+title: "Marketing A/B Testing Analysis"
 subtitle: The goal of this project is to evaluate how effective a marketing campaign is by examining user conversions and measuring the impact of ad exposure. Our analysis will focus on quantifying the role of advertisements in the overall success of the campaign
 description: This project aims to analyze the effectiveness of a marketing campaign by assessing user conversions and determining the impact of ad exposure. By evaluating the data, we seek to quantify the contribution of advertisements to the campaign's success
 image: https://github.com/user-attachments/assets/4eb340b4-e10d-4e05-beea-08a9a6ef5a58
@@ -11,7 +11,6 @@ tags: A/B Testing
 author: Dimas
 paginate: true
 ---
-# Marketing A/B Testing Analysis
 
 ## Overview
 This project focuses on analyzing the effectiveness of marketing campaigns through A/B testing. The aim is to evaluate whether exposure to advertisements influences user conversions and to quantify the impact of these ads on campaign success.
