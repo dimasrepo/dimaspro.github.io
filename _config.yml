@@ -18,7 +18,6 @@ menu:
   - title: Contact
     url: /contact
 
-
 email: senddimasadit@gmail.com
 
 # Disqus Settings (optional)
@@ -33,10 +32,10 @@ email: senddimasadit@gmail.com
 # Remove the item if you don't need it
 github_username: dimasrepo
 rpubs_username: senddimas
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: dimas-a-11b184122/
-medium_username: @medium_username
+twitter_username: [twitter_username] # Ganti dengan username Twitter yang benar
+instagram_username: [instagram_username] # Ganti dengan username Instagram yang benar
+linkedin_username: https://www.linkedin.com/in/dimas-a-11b184122/ # Format yang benar untuk LinkedIn
+medium_username: https://medium.com/@dimasadit # Format yang benar untuk Medium
 
 # Posts Settings
 show_time_bar: true
@@ -47,7 +46,7 @@ two_columns_layout: true
 # Advanced Settings
 baseurl: "" # The subpath of your site, e.g., /blog
 url: "" # The base hostname & protocol for your site
-google_analytics: "UA-XXXXXXXX-X"
+google_analytics: "UA-XXXXXXXX-X" # Ganti dengan ID Google Analytics Anda
 language: "en"
 categories_folder: category
 sent_message_url: "/contact/message-sent/"
@@ -108,4 +107,4 @@ exclude:
   - 'README.md'
 
 # Theme Version
-version: Project
+version: Project 
