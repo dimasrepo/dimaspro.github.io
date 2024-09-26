@@ -10,6 +10,6 @@ github_username: https://github.com/dimasrepo
 #twitter_username: twitter_username
 #instagram_username: instagram_username
 linkedin_username: https://www.linkedin.com/in/dimas-a-11b184122/
-#medium_username: https://medium.com/@senddimasadit
+medium_username: https://medium.com/@senddimasadit
 ---
 
