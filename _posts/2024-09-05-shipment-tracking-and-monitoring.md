@@ -6,10 +6,10 @@ subtitle: Real-time tracking and monitoring of shipments ensure transparency and
 description: Shipment tracking and monitoring involve the systematic oversight of delivery progress, enabling stakeholders to receive real-time updates and enhance operational efficiency.
 image: https://github.com/user-attachments/assets/754bbdd4-6478-4a04-bc16-591dec3e5736
 optimized_image: https://github.com/user-attachments/assets/754bbdd4-6478-4a04-bc16-591dec3e5736
-category:
-tags:
-author:
-paginate: false
+category: Looker Studio Dashboard
+tags: Looker Studio
+author: Dimas
+paginate: true
 ---
 
 ## Overview
