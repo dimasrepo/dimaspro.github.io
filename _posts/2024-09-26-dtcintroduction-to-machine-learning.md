@@ -217,3 +217,9 @@ One of the most powerful features of NumPy is its support for element-wise opera
 
 Machine Learning is a powerful tool for extracting patterns from data, enabling predictions for unseen data. Understanding the fundamentals of ML, including features, targets, and the model training process, is essential for successfully applying ML techniques. By leveraging the capabilities of libraries like NumPy, practitioners can enhance their data analysis and machine learning workflows.
 
+## Documentation & Links
+
+* To access the complete article, please visit our link [Medium](https://medium.com/@dimasadit)
+
+* To view the repository, please visit our link [Dimas Project](https://dimasrepo.github.io/)
+
