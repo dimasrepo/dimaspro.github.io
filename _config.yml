@@ -34,8 +34,8 @@ github_username: dimasrepo
 rpubs_username: senddimas
 twitter_username: [twitter_username] # Ganti dengan username Twitter yang benar
 instagram_username: [instagram_username] # Ganti dengan username Instagram yang benar
-linkedin_username: https://www.linkedin.com/in/dimas-a-11b184122/ # Format yang benar untuk LinkedIn
-medium_username: https://medium.com/@dimasadit # Format yang benar untuk Medium
+linkedin_username: dimas-a-11b184122/ # Format yang benar untuk LinkedIn
+medium_username: @dimasadit # Format yang benar untuk Medium
 
 # Posts Settings
 show_time_bar: true
