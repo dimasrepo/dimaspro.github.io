@@ -1,7 +1,7 @@
 ---
 date: 2024-09-26 15:10:43
 layout: post
-title: "DTC|Introduction to Machine Learning"
+title: "Introduction to Machine Learning"
 subtitle: Delving into features, targets, and the steps involved in Machine Learning models, as well as the importance of model selection and development environment for effective implementation.
 description: This article explores the fundamentals of Machine Learning, explaining concepts, terminology, and the processes involved in training and using models to predict unknown variables using available data.
 image: https://github.com/user-attachments/assets/54f58b9f-47c9-4455-9a22-9f676613e72d
