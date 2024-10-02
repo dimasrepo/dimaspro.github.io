@@ -24,9 +24,11 @@ Consistent approach to learning ensures that I remain adaptable, innovative, and
 
 <img src="https://github.com/user-attachments/assets/0827c676-3b6a-442d-982d-6b161d7f8119" width="570" height="404" alt="Basic SQL">
 
-**[Basic Data Science](dicoding.com/certificates/EYX4VWGOJZDL)** 
+**Basic Data Science** 
 
 <img src="https://github.com/user-attachments/assets/97cf78c4-b318-4077-9771-3f8fc2fdcfa2" width="570" height="404" alt="Basic Data Science">
+
+[Credential](dicoding.com/certificates/EYX4VWGOJZDL)
 
 **Python for Data Analysts**  
    <img src="https://github.com/user-attachments/assets/8db75d79-ce9c-44cd-b305-5a4c24ac3fe5" width="570" height="404" alt="Python for Data Analysts">
