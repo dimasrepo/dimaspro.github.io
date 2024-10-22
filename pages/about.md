@@ -13,7 +13,20 @@ permalink: /about/
 
 Consistent approach to learning ensures that I remain adaptable, innovative, and proficient in all that I do.
 
+
 ### Certificate
+
+**Programming with Python** 
+
+<img src="https://github.com/user-attachments/assets/2f496969-3ade-43f9-b423-d344584ffa84" width="570" height="404" alt="Programming with Python">
+
+**Basic SQL** 
+
+<img src="https://github.com/user-attachments/assets/0827c676-3b6a-442d-982d-6b161d7f8119" width="570" height="404" alt="Basic SQL">
+
+**Basic Data Science** 
+
+<img src="https://github.com/user-attachments/assets/97cf78c4-b318-4077-9771-3f8fc2fdcfa2" width="570" height="404" alt="Basic Data Science">
 
 **Python for Data Analysts**  
    <img src="https://github.com/user-attachments/assets/8db75d79-ce9c-44cd-b305-5a4c24ac3fe5" width="570" height="404" alt="Python for Data Analysts">
